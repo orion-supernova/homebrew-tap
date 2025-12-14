@@ -1,12 +1,12 @@
 class TermBeam < Formula
   desc "Terminal chat client - beam messages across the network"
   homepage "https://github.com/orion-supernova/term-beam"
-  version "1.0.6"
+  version "1.0.8"
   license "MIT"
 
   on_macos do
-    url "https://github.com/orion-supernova/term-beam/releases/download/v1.0.6/term-beam-1.0.6.tar.gz"
-    sha256 "e4bc99a917be46aa0c1beffda29e454552935f71b37a04d9c670afaac6bd40d0"
+    url "https://github.com/orion-supernova/term-beam/releases/download/v1.0.8/term-beam-1.0.8.tar.gz"
+    sha256 "a62305ae632dca6cffe544107bd36a6204edf55a7c2cc857f35198ed90c35e7b"
   end
 
   on_linux do
